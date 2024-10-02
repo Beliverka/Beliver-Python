@@ -1,0 +1,11 @@
+a=int(input())
+b=int(input())
+c=int(input())
+B=[]
+if 1<=a<=3:
+    B.append(a)
+if 1<=b<=3:
+    B.append(b)
+if 1<=c<=3:
+    B.append(c)
+print(B)
